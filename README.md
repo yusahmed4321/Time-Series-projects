@@ -1,4 +1,4 @@
-# Time-Series-project: JPMorgan stock Time series ARIMA & Prophet comaprison presentation.
+# Time-Series-project01: JPMorgan stock Time series ARIMA & Prophet comaprison presentation.
 
 
 
