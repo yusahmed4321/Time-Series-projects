@@ -25,4 +25,4 @@
 ![Slide21](https://github.com/user-attachments/assets/5812d53c-043d-4c58-a1aa-7b71606f7141)
 ![Slide22](https://github.com/user-attachments/assets/7c4f7528-880c-4c97-a1b4-27b33d7b7d91)
 ![Slide23](https://github.com/user-attachments/assets/74a23e51-a281-4ab9-93db-a443da87db6f)
-![Slide24](https://github.com/user-attachments/assets/6d0ec89f-dad7-4cb1-9afb-918e2c041960)
+
